@@ -14,7 +14,7 @@
         "max_inter": "998bbf1c80278b48",
         "max_native": "6b042de59abf0cb8",
 		"ironsource_api": "000000000",
-		"unityTest": true,
+		"unityTest": false,
         "unityGameID": "1734877",
         "unityBanner": "banner",
         "unityInter": "Android_Interstitial",
